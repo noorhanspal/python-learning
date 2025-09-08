@@ -1,5 +1,5 @@
-# example of dictionaries
-# student = {"name": "Noor", "roll": 12, "marks": [90, 85, 75]}
+#example of dictionaries
+student = {"name": "Noor", "roll": 12, "marks": [90, 85, 75]}
 print(student["name"])
 student["marks"].append(95)   # naye marks add kiye
 student["year"] = 4           # ek nayi key add
